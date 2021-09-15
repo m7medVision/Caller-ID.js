@@ -1,0 +1,21 @@
+{
+  "name": "callerid.js",
+  "version": "1.0.0",
+  "description": "This Call ID API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemone index.js"
+  },
+  "keywords": [
+    "CallerID",
+    "API",
+    "Number"
+  ],
+  "author": "Mohammed Al-Jahwari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1",
+    "request-ip": "^2.1.3"
+  }
+}
